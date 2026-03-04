@@ -12,8 +12,6 @@
 AI Financial Coach • Financial Health Score • Smart Budgeting • Expense Tracking • Risk Simulation • Goal Planning
 </p>
 
-<br>
-
 <p align="center">
 
 <a href="https://finexa322.vercel.app">
@@ -25,8 +23,6 @@ AI Financial Coach • Financial Health Score • Smart Budgeting • Expense Tr
 </a>
 
 </p>
-
-<br>
 
 <p align="center">
 
@@ -677,28 +673,59 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - 🔄 Multi-currency support enhancement (Planned)
 
 ---
- 
+
 ## 🤝 Contributors
 
+<p align="left">
+
+<table>
+<tr>
+
+<td align="center">
 <a href="https://github.com/sakshinikam05">
-<img src="https://github.com/sakshinikam05.png" width="65px"/>
+<img src="https://github.com/sakshinikam05.png" width="50" style="border-radius:50%;" /><br>
+<b>Sakshi</b>
 </a>
+</td>
 
+<td align="center">
+<a href="https://github.com/sukhadajoshi13">
+<img src="https://github.com/sukhadajoshi13.png" width="50" style="border-radius:50%;" /><br>
+<b>Sukhada</b>
+</a>
+</td>
+
+<td align="center">
 <a href="https://github.com/atharva-404">
-<img src="https://github.com/atharva-404.png" width="65px"/>
+<img src="https://github.com/atharva-404.png" width="50" style="border-radius:50%;" /><br>
+<b>Atharva</b>
 </a>
+</td>
 
-<a href="https://github.com/USERNAME3">
-<img src="https://github.com/USERNAME3.png" width="65px"/>
+<td align="center">
+<a href="https://github.com/yashpatil322">
+<img src="https://github.com/yashpatil322.png" width="50" style="border-radius:50%;" /><br>
+<b>Yash</b>
 </a>
+</td>
 
-<a href="https://github.com/USERNAME4">
-<img src="https://github.com/USERNAME4.png" width="65px"/>
-</a>
+</tr>
+</table>
 
+</p>
+
+
+---
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-Built with ❤️ by <b>Logic Legion Team</b>
-© 2026 Finexa. All rights reserved.</p>
-  </p>
+💜 <b>Built with passion by the Logic Legion Team</b>
+</p>
+
+<p align="center">
+Finexa © 2026 • All rights reserved
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
