@@ -1,13 +1,43 @@
-# Finexa - AI-Powered Personal Finance Management Platform
+<p align="center">
+<img src="./SS/1.png" width="95%" alt="Finexa Platform Preview"/>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-18+-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-5.2.5-green?style=flat-square" />
-</div>
+<h1 align="center">🚀 Finexa</h1>
+
+<p align="center">
+<b>AI-Powered Personal Finance Intelligence</b>
+</p>
+
+<p align="center">
+AI Financial Coach • Financial Health Score • Smart Budgeting • Expense Tracking • Risk Simulation • Goal Planning
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://finexa322.vercel.app">
+<img src="https://img.shields.io/badge/Launch%20Platform-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sakshinikam05/Finexa">
+<img src="https://img.shields.io/badge/GitHub%20Repository-9333ea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Financial%20Coach-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Health%20Score-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Expense%20Tracking-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/Smart%20Budgeting-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal%20Planning-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Risk%20Simulation-9333ea?style=flat-square"/>
+
+</p>
 
 ---
 
@@ -30,7 +60,7 @@
 
 ---
 
-## Overview
+## 📚 Overview
 
 **Finexa** is an AI-powered personal finance management platform designed to help users take control of their financial health. The platform leverages advanced machine learning, real-time data processing, and intuitive user interfaces to provide comprehensive financial insights, automated expense tracking, and intelligent financial recommendations.
 
@@ -70,43 +100,14 @@ Empower individuals to achieve financial wellness through AI-driven insights, ha
 
 ---
 
-## 🛠️ Tech Stack
 
-### Frontend
-| Technology | Version | Purpose |
-|-----------|---------|---------|
-| **React** | 18.3.1 | UI library |
-| **TypeScript** | 5.6.2 | Type safety |
-| **Vite** | 5.4.10 | Build tool |
-| **Tailwind CSS** | 3.4.14 | Styling |
-| **Framer Motion** | 11.11.0 | Animations |
-| **Recharts** | 2.13.3 | Data visualization |
-| **React Router** | 6.28.0 | Navigation |
-| **Zustand** | 5.0.2 | State management |
-| **Lucide React** | 0.462.0 | Icons |
-| **Axios** | 1.13.6 | HTTP client |
+## ⚙️ Tech Stack
 
-### Backend
-| Technology | Version | Purpose |
-|-----------|---------|---------|
-| **Django** | 5.2.5 | Web framework |
-| **Django REST Framework** | 3.16.1 | API framework |
-| **Python** | 3.10+ | Runtime |
-| **PostgreSQL/SQLite** | - | Primary database |
-| **MongoDB** | 5.0+ | Document storage |
-| **Channels** | 4.3.2 | WebSocket support |
-| **Celery** | - | Async task queue |
-| **Redis** | - | Caching & broker |
-| **LangChain** | 0.3.27 | LLM framework |
-| **Google Gemini API** | - | AI language model |
-| **OpenAI GPT-4** | - | Expense extraction |
+<p align="center">
 
-### Infrastructure & DevOps
-- **Docker** - Containerization
-- **Docker Compose** - Multi-container orchestration
-- **Gunicorn** - WSGI server
-- **JWT Authentication** - Secure API access
-- **CORS Headers** - Cross-origin resource sharing
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,nodejs,python,django,postgres,redis,docker,git,github"/>
+
+</p>
 
 ---
 
@@ -651,7 +652,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Documentation**: [Backend README](./backend/README.md)
 - **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/Logic_Legion_Finexa/issues)
-- **Email**: contact@finexa.com
+- **Email**: sakshi.s.nikam05@gmail.com
 
 ---
 
@@ -676,8 +677,28 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - 🔄 Multi-currency support enhancement (Planned)
 
 ---
+ 
+## 🤝 Contributors
 
-<div align="center">
-  <p><strong>Made with ❤️ by the Finexa Team</strong></p>
-  <p>© 2026 Finexa. All rights reserved.</p>
-</div>
+<a href="https://github.com/sakshinikam05">
+<img src="https://github.com/sakshinikam05.png" width="65px"/>
+</a>
+
+<a href="https://github.com/atharva-404">
+<img src="https://github.com/atharva-404.png" width="65px"/>
+</a>
+
+<a href="https://github.com/USERNAME3">
+<img src="https://github.com/USERNAME3.png" width="65px"/>
+</a>
+
+<a href="https://github.com/USERNAME4">
+<img src="https://github.com/USERNAME4.png" width="65px"/>
+</a>
+
+
+<p align="center">
+Built with ❤️ by <b>Logic Legion Team</b>
+© 2026 Finexa. All rights reserved.</p>
+  </p>
+
