@@ -478,20 +478,20 @@ python manage.py migrate <app-name> <migration-name>
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                       FRONTEND (React + TypeScript)             │
-│                    Vite | Tailwind | Framer Motion             │
+│                    Vite | Tailwind | Framer Motion              │
 └────────────────────────────┬────────────────────────────────────┘
                              │ HTTP/WebSocket (Axios)
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    API GATEWAY & MIDDLEWARE                      │
+│                    API GATEWAY & MIDDLEWARE                     │
 │              JWT Auth | CORS | Request Validation               │
 └────────────────────────────┬────────────────────────────────────┘
                              │
         ┌────────────────────┼────────────────────┐
         ▼                    ▼                    ▼
 ┌──────────────────┐ ┌──────────────────┐ ┌──────────────────┐
-│   REST API       │ │  WebSocket       │ │  Admin Panel     │
-│   (Django REST)  │ │  (Channels)      │ │  (Django Admin)  │
+│    REST API      │ │     WebSocket    │ │   Admin Panel    │
+│   (Django REST)  │ │    (Channels)    │ │  (Django Admin)  │
 └────────┬─────────┘ └────────┬─────────┘ └────────┬─────────┘
          │                    │                    │
          └────────────────────┼────────────────────┘
